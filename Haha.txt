@@ -1,5 +1,14 @@
+<<<<<<< HEAD
+So this is the hotfix2 ifle
+
+
 Addd the hotfix in the hotfix branch!
 It seems that each branch is dedicated to a signle problem or feature.
+=======
+So, this is where I was interrupted before the hotfix 
+And shoudl be C5 in Fig 3-15
+
+>>>>>>> iss53
 
 
 This is to test the branching function of Git
