@@ -1,17 +1,18 @@
-<<<<<<< HEAD
 So this is the hotfix2 ifle
 aaaaaaThis is iss53, OK?
 
 Addd the hotfix in the hotfix branch!
-It seems that each branch is dedicated to a signle problem or feature.
-=======
+It seems that each branch is dedicated to a signle problem or featureas
 So, this is where I was interrupted before the hotfix 
 And shoudl be C5 in Fig 3-15
 
->>>>>>> iss53
+
 
 
 This is to test the branching function of Git
+Now, let push our updates to the origin/master, OK?
+
+All right, this is remote branch 1 hahahhahah!!
 
 Ok,let's test teh signed tag again
 
