@@ -1,3 +1,7 @@
+Addd the hotfix in the hotfix branch!
+It seems that each branch is dedicated to a signle problem or feature.
+
+
 This is to test the branching function of Git
 
 Ok,let's test teh signed tag again
