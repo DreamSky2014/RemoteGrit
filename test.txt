@@ -1,4 +1,0 @@
-This is to test the non-fast-forward error
-
-Haha, this is the text for "fetch" command
-By the way, where to change the font???
